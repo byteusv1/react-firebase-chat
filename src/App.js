@@ -15,8 +15,7 @@ firebase.initializeApp({
   projectId: "reactchat-87d6c",
   storageBucket: "reactchat-87d6c.appspot.com",
   messagingSenderId: "32552265965",
-  appId: "1:32552265965:web:f74d082ef226653eb244e4",
-  measurementId: "G-8558H695CG"
+  appId: "1:32552265965:web:f74d082ef226653eb244e4"
 })
 
 const auth = firebase.auth();
